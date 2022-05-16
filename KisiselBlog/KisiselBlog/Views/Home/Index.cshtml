@@ -1,0 +1,47 @@
+﻿@model IEnumerable<KisiselBlog.Models.Blog>
+@{
+    ViewData["Title"] = "Home Page";
+}
+ <header class="masthead" style="background-image: url('assets/img/metaverse.jpg')">
+        <div class="container position-relative px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+                <div class="col-md-10 col-lg-8 col-xl-7">
+                    <div class="site-heading" >
+                        
+                        <h1 style="color:red">Metaverse </h1>
+                        </style>
+                        <span style="color:red" class="subheading">What's the future of the metaverse? </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+  <div class="container">
+ <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        @foreach (var item in Model)
+        {
+         <div class="post-preview">
+          <a asp-action="Post" asp-route-id="@item.Id">
+            <h2 class="post-title">
+             @item.Title
+            </h2>
+            <h3 class="post-subtitle">
+              @item.Subtitle
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            @item.Author.Name 
+            yayınlandı</p>
+        </div>
+        <hr>
+        }
+
+        
+        <!-- Pager -->
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
+        </div>
+      </div>
+    </div>
+    </div>

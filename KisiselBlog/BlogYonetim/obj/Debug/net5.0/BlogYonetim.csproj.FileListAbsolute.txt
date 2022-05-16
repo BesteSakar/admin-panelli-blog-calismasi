@@ -1,0 +1,143 @@
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.exe
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.deps.json
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.runtimeconfig.json
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.runtimeconfig.dev.json
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\ref\BlogYonetim.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.Views.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.Views.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.AssemblyInfo.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\staticwebassets\BlogYonetim.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\staticwebassets\BlogYonetim.StaticWebAssets.xml
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\scopedcss\bundle\BlogYonetim.styles.css
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.TagHelpers.input.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.TagHelpers.output.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorCoreGenerate.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.Views.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.csproj.CopyComplete
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\ref\BlogYonetim.dll
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.pdb
+C:\Users\User\source\repos\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.genruntimeconfig.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\appsettings.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.StaticWebAssets.xml
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.exe
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.deps.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.runtimeconfig.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.Views.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\BlogYonetim.Views.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.AssemblyInfo.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorAssemblyInfo.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorAssemblyInfo.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\scopedcss\bundle\BlogYonetim.styles.css
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\staticwebassets\BlogYonetim.StaticWebAssets.Manifest.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.TagHelpers.input.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.TagHelpers.output.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorCoreGenerate.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorTargetAssemblyInfo.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.RazorTargetAssemblyInfo.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.Views.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.csproj.CopyComplete
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\refint\BlogYonetim.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\BlogYonetim.genruntimeconfig.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\ref\BlogYonetim.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Home\Author.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\BlogYonetim\obj\Debug\net5.0\Razor\Views\Blog\Blog.cshtml.g.cs
